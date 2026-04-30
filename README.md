@@ -13,3 +13,5 @@ Most of my time so far has gone into measuring components, redesigning parts, an
 One of the biggest things I learned was optimizing 3D printing. My first box print was estimated at 24 hours using a 0.15mm nozzle. After testing settings and doing research, I switched to a 0.2mm nozzle and changed supports to build plate only, which brought the print down to about 9 hours while still looking good.
 
 Right now the printed parts are done, and I am moving into wiring, soldering, and testing the final mechanism.
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0d716244-3c39-4192-aecd-44b69ebe9434" />
